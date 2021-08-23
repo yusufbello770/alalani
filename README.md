@@ -1,5 +1,6 @@
 > # **[VENAX] Instagram Phishing Page**
 > ### **<ins>Instagram Phishing Usage :</ins>**<br>
+> ## **Do not forget to not use it for malicious purposes, it's only for education.**
 > **I don't give a fuck about what you do with my code, I am obviously not responsable of shit you do 😉**<br>
 **- My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**
 ![webhook](https://user-images.githubusercontent.com/81310818/123550149-869fee00-d76c-11eb-9938-34a444eb00e1.PNG)<br>
