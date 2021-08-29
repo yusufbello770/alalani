@@ -1,5 +1,5 @@
 > # **[VENAX] Instagram Phishing Page**
-### **Do not forget to not use it for malicious purposes, it's only for educational purposes**<br/>
+### **Do not forget to not use it for malicious purposes, it's only for educational purposes.**
 ### **You are solely responsible for your actions.**<br/>
 
 **- My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**<br/>
